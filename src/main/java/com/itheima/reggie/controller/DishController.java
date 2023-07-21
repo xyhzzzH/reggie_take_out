@@ -115,7 +115,7 @@ public class DishController {
     }
 
     /**
-     * 批量删除
+     * 根据id批量删除
      * @param ids
      * @return
      */
